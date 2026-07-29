@@ -114,5 +114,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evheraghty-hash/My-First-Slack-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evheraghty-hash/My-First-Slack-Bot/issues"
+  },
+  "homepage": "https://github.com/evheraghty-hash/My-First-Slack-Bot#readme"
 }
