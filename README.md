@@ -24,6 +24,7 @@ Here's where you can try out My First Slack Bot!
 
 
 I used was Javascript to code everything in this project.
+I also used the built in /commands that where given in the tutorial and on VS Code.
 
 
 Sources:
