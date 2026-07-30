@@ -22,7 +22,9 @@ Here's where you can try out My First Slack Bot!
 /confusion-music -- Get a random music recommendation
 
 
+
 I used was Javascript to code everything in this project.
+
 
 Sources:
 Hackclub Stardance,
