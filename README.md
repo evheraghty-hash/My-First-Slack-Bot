@@ -3,7 +3,7 @@ My First Slack Bot
 A slack bot that runs simple slash commands to do simple tasks.
 
 Here's where you can try out My First Slack Bot!
-**_https://app.slack.com/client/E09V59WQY1E/D0BBDSF6UMR?skip_today=1_**
+**_[https://app.slack.com/client/E09V59WQY1E/D0BBDSF6UMR?skip_today=1](https://app.slack.com/client/E09V59WQY1E/C0P5NE354?skip_today=1)_**
 
 **The current list of commands that run for my Slack Bot are:**
 
